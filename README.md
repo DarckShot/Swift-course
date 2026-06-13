@@ -26,9 +26,10 @@
 |
 ├── lab6/
 │   └── sayHello/                     // SayHello
-│   │
+│   
 ├── lab7/
 │   └── lab7.playground/              // ZooSim
+│   
 ...
 ```
 
