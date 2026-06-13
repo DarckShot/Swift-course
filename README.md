@@ -12,20 +12,23 @@
 ├── LICENSE
 ├── README.md
 ├── lab1-5/
-│   ├── lab1.playground/
+│   ├── lab1.playground/          
 │   │
 │   ├── lab2.playground/
 │   │
 │   └── lab3.playground/
 │   │
-│   └── lab4.playground/
+│   └── lab4.playground/              // Higher order functions
 │   │
-│   └── lab5.playground/
+│   └── lab5.playground/              // Closure
 │   │
-│   └── MyPlayground.playground/
+│   └── MyPlayground.playground/      // Temp file
 |
 ├── lab6/
-│   └── sayHello/
+│   └── sayHello/                     // SayHello
+├── lab7/
+│   └── lab7.playground/              // ZooSim
+...
 ```
 
 Каждая лабораторная работа хранится в отдельной папке и включает:
